@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC   -shared -Wl,-soname,libmyfun.so -o libmyfun.so CMakeFiles/myfun.dir/adapt_filt.cpp.o 

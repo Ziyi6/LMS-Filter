@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/LMS.dir/main.cpp.o  -o LMS  -Wl,-rpath,/home/ziyi/code/LMS-Filter/HW4_LMS_code/build/src ../src/libmyfun.so 

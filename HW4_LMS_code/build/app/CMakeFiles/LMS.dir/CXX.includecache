@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/adapt_filt.h
+
+/home/ziyi/code/LMS-Filter/HW4_LMS_code/app/main.cpp
+stdio.h
+-
+string.h
+-
+adapt_filt.h
+/home/ziyi/code/LMS-Filter/HW4_LMS_code/app/adapt_filt.h
+
